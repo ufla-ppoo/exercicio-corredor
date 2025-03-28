@@ -167,10 +167,10 @@ Altere o programa do passo anterior de forma que ele exiba o menu abaixo e permi
 - Deixe comentado o código da classe `App` referente aos passos anteriores para que o professor possa fazer a correção dos mesmos.
 
 ```
-Criar corredor
-Correr
-Exibir dados do corredor
-Sair
+1. Criar corredor
+2. Correr
+3. Exibir dados do corredor
+4. Sair
 
   Digite sua opção:
 ```
